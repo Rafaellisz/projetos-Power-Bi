@@ -26,3 +26,6 @@ Ao final do projeto, o relatório deverá apresentar uma terceira página com:
  ✔️ Dados apresentados de forma clara, facilitando a interpretação.
 
 Essa atividade é fundamental para fortalecer as habilidades de visualização de dados, interpretação de métricas e elaboração de relatórios mais profissionais no Power BI.
+
+[Analisando dados de um Dashboard de Vendas de no Power BI.pdf](https://github.com/user-attachments/files/20597971/Analisando.dados.de.um.Dashboard.de.Vendas.de.no.Power.BI.pdf)
+
